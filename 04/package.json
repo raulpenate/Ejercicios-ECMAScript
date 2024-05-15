@@ -1,10 +1,10 @@
 {
   "name": "01-shuffle",
   "module": "index.ts",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "express": "bun run ./express.ts",
-    "service": "nodemon express.ts"
+    "service": "bun run tsx watch ./express.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
@@ -17,6 +17,8 @@
     "express": "^4.19.2",
     "lodash": "^4.17.21",
     "nodemailer": "^6.9.13",
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.10.2"
   }
 }
