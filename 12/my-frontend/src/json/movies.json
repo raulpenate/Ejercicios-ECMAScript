@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "titulo": "Inception",
+    "protagonista": "Leonardo DiCaprio",
+    "categoria": "Sci-Fi",
+    "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+  },
+  {
+    "id": "2",
+    "titulo": "The Shawshank Redemption",
+    "protagonista": "Tim Robbins",
+    "categoria": "Drama",
+    "url": "https://musicart.xboxlive.com/7/e0ee5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+  },
+  {
+    "id": "3",
+    "titulo": "The Dark Knight",
+    "protagonista": "Christian Bale",
+    "categoria": "Action",
+    "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+  },
+  {
+    "id": "4",
+    "titulo": "Pulp Fiction",
+    "protagonista": "John Travolta",
+    "categoria": "Crime",
+    "url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "id": "5",
+    "titulo": "The Godfather",
+    "protagonista": "Marlon Brando",
+    "categoria": "Crime",
+    "url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  }
+]

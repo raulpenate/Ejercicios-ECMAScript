@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background{
+    @apply dark:bg-gray-800;
+}
+
+.white-text{
+    @apply dark:text-white;
+}
+
+.card-class{
+    @apply text-center max-w-sm rounded-lg shadow dark:bg-gray-800 rounded-lg shadow-2xl;
+}
+
+.button-blue{
+    @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+}
+
+.button{
+    @apply text-white font-bold py-2 px-4 rounded;
+}
+
+.container {
+    display: flex !important;
+    justify-content: center;
+    align-self: center;
+  }
+
+.full-w{
+    width: 100% !important;
+}
+
+.full-h{
+    height: 100% !important;
+}
+
+body {
+    @apply dark:bg-gray-700;
+  }
+
+  .crud-buttons {
+    position: absolute;
+    top: 10px; /* Adjust as needed */
+    right: 10px; /* Adjust as needed */
+    z-index: 10; /* Ensure it is on top */
+  }
+
+  .card-wrapper {
+    position: relative; /* Establish relative positioning context */
+  }
+  

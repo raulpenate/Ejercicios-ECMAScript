@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "nombre": "Vehiculo 1",
+        "estado": "Sin ruta",
+        "ubicacion": {
+          "lat": 13.7942,
+          "lon": -88.8965
+        },
+        "ubicacionFinal": {
+          "latF": 13.6929,
+          "lonF": -88.2182
+        },
+        "rendimiento": {
+          "gas": "100",
+          "velocidad": "100",
+          "kilometraje": "50000"
+        }
+      },
+      {
+        "id": 2,
+        "nombre": "Vehiculo 6",
+        "estado": "Sin ruta",
+        "ubicacion": {
+          "lat": 37.7749,
+          "lon": -122.4194
+        },
+        "ubicacionFinal": {
+          "latF": 37.3382,
+          "lonF": -121.8863
+        },
+        "rendimiento": {
+          "gas": "50",
+          "velocidad": "50",
+          "kilometraje": "10000"
+        }
+      }
+      
+]
